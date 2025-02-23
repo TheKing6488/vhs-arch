@@ -8,7 +8,7 @@
 
 <!-- TODO Change the links -->
 <!-- TODO Remove if you do not have a pipeline -->
-[![HugoBuildAndDeploy](https://img.shields.io/github/workflow/status/TheKing6488/README-TEMPLATE/PipelineName?style=for-the-badge)](https://github.com/TheKing6488/README-TEMPLATE/actions/workflows/PipelineName.yaml)
+[![HugoBuildAndDeploy](https://img.shields.io/github/workflow/status/TheKing6488/vhs-arch/PipelineName?style=for-the-badge)](https://github.com/TheKing6488/vhs-arch/actions/workflows/PipelineName.yaml)
 
 <!-- PROJECT LOGO -->
 <!-- TODO Change the Link -->
@@ -23,19 +23,19 @@
 ### README-Template
 
 <!-- TODO Change the description -->
-In this repository I have created a README-Template based on Best-README-Template
+In this repository I have created a Docker Container based on Arch and vhs
 
 <p align="center">
 
 <br />
 
 <!-- TODO Change the Link for Project, Bug and Feature -->
-<a href="https://github.com/TheKing6488/README-Template"><strong>Explore the Project »</strong></a>
+<a href="https://github.com/TheKing6488/vhs-arch"><strong>Explore the Project »</strong></a>
 <br />
 <br />
-<a href="https://github.com/TheKing6488/README-Template/issues">Report Bug</a>
+<a href="https://github.com/TheKing6488/vhs-arch/issues">Report Bug</a>
 ·
-<a href="https://github.com/TheKing6488/README-Template/issues">Request Feature</a>
+<a href="https://github.com/TheKing6488/vhs-arch/issues">Request Feature</a>
   </p>
 </div>
 
@@ -51,8 +51,10 @@ Here you can describe your project a little bit more. Explain the world your tho
 
 <!-- TODO Go to https://github.com/Ileriayo/markdown-badges and search for a fitting batch🙃 -->
 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)  
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)   
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)  
 
 <br>
 
@@ -76,20 +78,19 @@ The code is distributed under the MIT License. See `LICENSE` for more informatio
 <!-- TODO Add your acknowledgments -->
 ## Acknowledgments 🙏
 
-- [LNA-DEV README-Template](https://github.com/lna-dev/README-Template)
-- [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
-- [Markdown-Badges](https://github.com/Ileriayo/markdown-badges)
+- [Charmbracelet vhs](https://github.com/charmbracelet/vhs)
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- TODO Update your user name -->
 <!-- TODO Update your project name -->
-[contributors-shield]: https://img.shields.io/github/contributors/TheKing6488/README-TEMPLATE.svg?style=for-the-badge
-[contributors-url]: https://github.com/TheKing6488/README-TEMPLATE/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/TheKing6488/README-TEMPLATE.svg?style=for-the-badge
-[forks-url]: https://github.com/TheKing6488/README-TEMPLATE/network/members
-[stars-shield]: https://img.shields.io/github/stars/TheKing6488/README-TEMPLATE.svg?style=for-the-badge
-[stars-url]: https://github.com/TheKing6488/README-TEMPLATE/stargazers
-[issues-shield]: https://img.shields.io/github/issues/TheKing6488/README-TEMPLATE.svg?style=for-the-badge
-[issues-url]: https://github.com/TheKing6488/README-TEMPLATE/issues
-[license-shield]: https://img.shields.io/github/license/TheKing6488/README-TEMPLATE.svg?style=for-the-badge
-[license-url]: https://github.com/TheKing6488/README-TEMPLATE/blob/master/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/TheKing6488/vhs-arch.svg?style=for-the-badge
+[contributors-url]: https://github.com/TheKing6488/vhs-arch/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/TheKing6488/vhs-arch.svg?style=for-the-badge
+[forks-url]: https://github.com/TheKing6488/vhs-arch/network/members
+[stars-shield]: https://img.shields.io/github/stars/TheKing6488/vhs-arch.svg?style=for-the-badge
+[stars-url]: https://github.com/TheKing6488/vhs-arch/stargazers
+[issues-shield]: https://img.shields.io/github/issues/TheKing6488/vhs-arch.svg?style=for-the-badge
+[issues-url]: https://github.com/TheKing6488/vhs-arch/issues
+[license-shield]: https://img.shields.io/github/license/TheKing6488/vhs-arch.svg?style=for-the-badge
+[license-url]: https://github.com/TheKing6488/vhs-arch/blob/master/LICENSE

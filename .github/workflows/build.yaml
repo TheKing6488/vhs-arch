@@ -1,0 +1,11 @@
+name: build and create release
+
+on:
+  push:
+    branches:
+      - '**'
+
+jobs:
+  build-and-create-release:
+       uses: theking6488/global-pipelines/.github/workflows/main.yaml@main
+       secrets: inherit
